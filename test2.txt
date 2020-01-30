@@ -1,0 +1,12 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 70EC-08E4
+
+ Directory of E:\IT CS1\GitData\Myproject101
+
+30-01-2020  16:13    <DIR>          .
+30-01-2020  16:13    <DIR>          ..
+30-01-2020  15:35               345 test.txt
+30-01-2020  15:42               392 test1.txt
+30-01-2020  16:13                 0 test2.txt
+               3 File(s)            737 bytes
+               2 Dir(s)  205,368,078,336 bytes free
